@@ -1,0 +1,225 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Brian",
+      "text": "Triple Crown champion, victory at the Arima Kinen, five G1 wins…"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "This gnawing in my stomach won't stop though. I'm hungry for more…"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "When… When is the next race?!"
+    },
+    {
+      "text": "Brian's whirlwind of a record, Triple Crown and beyond, continues \ninto the next year."
+    },
+    {
+      "name": "Caster",
+      "text": "They're past the final turn into the last stretch! Narita Brian has \nalready taken the lead!"
+    },
+    {
+      "name": "Caster",
+      "text": "She's blasted ahead! Brian's lead is only growing now!"
+    },
+    {
+      "name": "Caster",
+      "text": "She's unchallenged—no one can catch up to her six—no, seven-length \nlead! And that's the finish!"
+    },
+    {
+      "name": "Caster",
+      "text": "There's no doubt about it! Narita Brian's won the Hanshin Daishoten!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Well done, Brian."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I can't believe you made a personal best time in a long-distance race. \nYou truly have no bounds."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "You've been chosen as Racer of the Year, you're winning all these \nraces…"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Narita Brian! You're not just making Team Sirius happy, you're making \nthe whole Twinkle Series ecstatic! Keep it up!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "You're welcome."
+    },
+    {
+      "text": "Next is the Tenno Sho (Spring), the race your sister won. Let's make it \na win for both sisters!"
+    },
+    {
+      "text": "Next is the Tenno Sho (Spring), the race your sister won. Let's make it \na win for both sisters!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Of course I'll win… But first I've got a winning concert to go to."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Everyone says she'll beat President Rudolph's seven-crown record. \nThis looks to be quite a year for Brian."
+    },
+    {
+      "text": "Yes. Everyone, including me, has high hopes for Brian."
+    },
+    {
+      "text": "I'm like one of her fans, unable to hold in my excitement for what \nshe'll accomplish next."
+    },
+    {
+      "name": "Fan A",
+      "text": "Briaaan! Your race was the best today!"
+    },
+    {
+      "name": "Fan B",
+      "text": "We know you'll win the Tenno Sho (Spring) too!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hwaaa… Brian… So that's how a Triple Crown winner races!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "I wanna soar high in a race like that too!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "I wouldn't expect to find you anywhere else."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Big Sis… How's your leg?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "I'll need a little longer until I've recovered. I'm starting to get out of \nshape."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "You're doing as well as ever, Racer of the Year. After that landslide \nvictory at the Hanshin Daishoten, I can't help but wonder how much \nhigher you'll soar."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I don't really have a goal in mind for that stuff. I'm just trying to get to \nthe finish before anyone else. That's all."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Of course. Your goalpost is ever-moving, always leaving you hungry \nfor more."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "You do look like you're having fun though. You really love nothing \nmore than to run."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I look like I'm having fun? Even though I'm never satisfied by any \nrace?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Yes, I'm sure of it."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…"
+    },
+    {
+      "text": "With the Hanshin Daishoten behind her, Narita Brian is back to \ntraining."
+    },
+    {
+      "text": "She needs to be in top shape for her next big race, the Tenno Sho \n(Spring)."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<I>Exhale…</I>"
+    },
+    {
+      "text": "You look a little tired. Everything good?"
+    },
+    {
+      "text": "You look a little tired. Everything good?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "It's no problem. I'm not even running at full strength."
+    },
+    {
+      "text": "Glad to hear it. Let's play it safe and run the woodchip course next."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "All right, got it."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Brian has the drive to keep running forever."
+    },
+    {
+      "text": "That's what makes her so strong. We'd better raise our expectations \nto match her."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I'm excited to see her next race too."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I feel the same, but we can't simply expect her to do everything. We \nneed to follow her example.",
+      "choice_data_list": [
+        "I'll do my best to make sure she's ready to \nperform at her peak."
+      ]
+    },
+    {
+      "text": "I'll do my best to make sure she's ready to perform at her peak."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oh!"
+    },
+    {
+      "name": "Trainer",
+      "text": "What's wrong?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "The race—isn't it almost the deadline for Brian to register?"
+    },
+    {
+      "text": "I think you're right."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh my… It'd be bad to forget that."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "However high her performance, it's meaningless if she can't enter the \nrace."
+    },
+    {
+      "text": "I'll go right now before I forget. Look after everyone's training, \nMcQueen."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "…?!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Brian?!"
+    },
+    {
+      "text": "Wh-what happened?!"
+    }
+  ]
+}
