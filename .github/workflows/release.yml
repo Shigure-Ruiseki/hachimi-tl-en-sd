@@ -20,7 +20,7 @@ jobs:
 
       - uses: actions/checkout@v4
         with:
-          repository: UmaTL/hachimi-tl-en
+          repository: Shigure-Ruiseki/hachimi-tl-en
           ref: main
           fetch-depth: 0
           path: base_tl
