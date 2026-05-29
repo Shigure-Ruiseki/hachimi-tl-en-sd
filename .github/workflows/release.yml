@@ -45,7 +45,7 @@ jobs:
           mv -f base_tl/localized_data .
 
           echo "Merging skill data"
-          curl -o skill_data_dict.json https://raw.githubusercontent.com/UmaTL/hachimi-sd/refs/heads/main/localized_data/text_data_dict.json
+          curl -o skill_data_dict.json https://raw.githubusercontent.com/Shigure-Ruiseki/hachimi-sd/refs/heads/main/localized_data/text_data_dict.json
           python merge_skill_data.py
 
       - uses: stefanzweifel/git-auto-commit-action@v5
