@@ -16644,7 +16644,11 @@
     "204442": "Shadowing",
     "204431": "Outrun the Dust",
     "102503111": "Supernatural Experience",
-    "102503211": "Otherworldly"
+    "102503211": "Otherworldly",
+    "111161": "Unfading Cattleya",
+    "911161": "Unfading Cattleya",
+    "111602211": "Pride of the Strongest Lady",
+    "111602111": "——Now, Let's Dance"
   },
   "48": {
     "10071": "<b>Target Speed +0.15 m/s for 6 s</b> when: After 50% distance AND Before 60% distance AND In trailing ﹤50%",
@@ -39507,7 +39511,10 @@
     "2044303": "Faster Than Shadows",
     "2044401": "Shadowing",
     "2044402": "Shadowing",
-    "2044403": "Shadowing"
+    "2044403": "Shadowing",
+    "11160201": "Unfading Cattleya",
+    "11160202": "Unfading Cattleya",
+    "11160203": "Unfading Cattleya"
   },
   "148": {
     "1": "Ace Bonus",
@@ -44095,7 +44102,10 @@
     "2044303": "Gain skill hint: Faster Than Shadows",
     "2044401": "Gain skill hint: Shadowing",
     "2044402": "Gain skill hint: Shadowing",
-    "2044403": "Gain skill hint: Shadowing"
+    "2044403": "Gain skill hint: Shadowing",
+    "11160201": "Gain skill hint: Unfading Cattleya",
+    "11160202": "Gain skill hint: Unfading Cattleya",
+    "11160203": "Gain skill hint: Unfading Cattleya"
   },
   "173": {
     "1139": "Tracen Academy \"DREAMS\" Supervisor",
@@ -54276,7 +54286,15 @@
     "830265003": "A Solitary Truth",
     "830292001": "Growing \"Interest\"",
     "830292002": "Thickening \"Anxiety\"",
-    "830292003": "Building \"Love\""
+    "830292003": "Building \"Love\"",
+    "501025803": "Floating in the Night",
+    "501025804": "Face Your Fears!",
+    "501025805": "Repeat, Until You Choose",
+    "501025510": "Jet-Black Barista",
+    "501025511": "Heart-Pounding Supernatural Exploration Tour",
+    "501025520": "The Visitor",
+    "501025525": "Devil's Whisper",
+    "501025516": "A Bellyful of Kindness"
   },
   "264": {
     "1": "Akito (NPC)",
@@ -57368,7 +57386,31 @@
     "41305101": "Learn 2 Medium Distance skills",
     "41305102": "Learn 2 Long Distance skills",
     "91109101": "Own ★３ [Eternal Fairytale] Rhein Kraft at the start of a Career.",
-    "91109102": "Gain a hint from legacies at the start of a Career."
+    "91109102": "Gain a hint from legacies at the start of a Career.",
+    "10050304": "Reach ≥800 Wit",
+    "10250305": "Reach ≥800 Wit",
+    "11120101": "Reach ≥800 Wit",
+    "11360104": "Reach ≥800 Wit",
+    "10250306": "Learn 2 Long Distance skills",
+    "10250304": "Win 2 or more Long Distance G1 races.",
+    "11200107": "Reach ≥800 Power",
+    "10250302": "Reach ≥800 Power",
+    "10940205": "Reach ≥800 Power",
+    "11160201": "Reach ≥800 Power",
+    "10250303": "Learn 2 Late Surger skills",
+    "10050305": "Reach ≥600 Stamina",
+    "10250301": "Reach ≥600 Stamina",
+    "10940206": "Reach ≥600 Stamina",
+    "11160203": "Win 8 or more G1 races using the Late Surger.",
+    "10050303": "Reach ≥600 Guts",
+    "10940201": "Reach ≥600 Guts",
+    "11120103": "Reach ≥600 Guts",
+    "11160205": "Reach ≥600 Guts",
+    "11360101": "Reach ≥600 Guts",
+    "10940203": "Learn 3 Speed-increasing skills",
+    "11160204": "Learn 3 Speed-increasing skills",
+    "11360102": "Learn 3 Speed-increasing skills",
+    "11160202": "Learn 3 Medium Distance skills"
   },
   "301": {
     "1001": "Agnes Tachyon's Traits Research",
