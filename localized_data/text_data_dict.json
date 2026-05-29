@@ -16637,7 +16637,12 @@
     "113701111": "Brush Up!",
     "113701211": "Emergency Reprint",
     "114301111": "Chain of Hearts",
-    "114301211": "Light in the Dark"
+    "114301211": "Light in the Dark",
+    "120251": "In Times of Wandering, In Times of Waning",
+    "920251": "In Times of Wandering, In Times of Waning",
+    "204432": "Faster Than Shadows",
+    "204442": "Shadowing",
+    "204431": "Outrun the Dust"
   },
   "48": {
     "10071": "<b>Target Speed +0.15 m/s for 6 s</b> when: After 50% distance AND Before 60% distance AND In trailing ﹤50%",
@@ -39491,7 +39496,16 @@
     "11270103": "Target Acquired! Serving Justice!",
     "11360101": "Prayer of Innocence Holy Light",
     "11360102": "Prayer of Innocence Holy Light",
-    "11360103": "Prayer of Innocence Holy Light"
+    "11360103": "Prayer of Innocence Holy Light",
+    "10250301": "In Times of Wandering, In Times of Waning",
+    "10250302": "In Times of Wandering, In Times of Waning",
+    "10250303": "In Times of Wandering, In Times of Waning",
+    "2044301": "Faster Than Shadows",
+    "2044302": "Faster Than Shadows",
+    "2044303": "Faster Than Shadows",
+    "2044401": "Shadowing",
+    "2044402": "Shadowing",
+    "2044403": "Shadowing"
   },
   "148": {
     "1": "Ace Bonus",
@@ -44070,7 +44084,16 @@
     "11430103": "Increases Stamina Cap & Guts Cap & Wit Cap, gain skill hint: Ring-a-Link",
     "11360101": "Increases Speed Cap & Guts Cap & Wit Cap, gain skill hint: Prayer of Innocence Holy Light",
     "11360102": "Increases Speed Cap & Guts Cap & Wit Cap, gain skill hint: Prayer of Innocence Holy Light",
-    "11360103": "Increases Speed Cap & Guts Cap & Wit Cap, gain skill hint: Prayer of Innocence Holy Light"
+    "11360103": "Increases Speed Cap & Guts Cap & Wit Cap, gain skill hint: Prayer of Innocence Holy Light",
+    "10250301": "Increases Power Cap & Guts Cap & Wit Cap, gain skill hint: In Times of Wandering, In Times of Waning",
+    "10250302": "Increases Power Cap & Guts Cap & Wit Cap, gain skill hint: In Times of Wandering, In Times of Waning",
+    "10250303": "Increases Power Cap & Guts Cap & Wit Cap, gain skill hint: In Times of Wandering, In Times of Waning",
+    "2044301": "Gain skill hint: Faster Than Shadows",
+    "2044302": "Gain skill hint: Faster Than Shadows",
+    "2044303": "Gain skill hint: Faster Than Shadows",
+    "2044401": "Gain skill hint: Shadowing",
+    "2044402": "Gain skill hint: Shadowing",
+    "2044403": "Gain skill hint: Shadowing"
   },
   "173": {
     "1139": "Tracen Academy \"DREAMS\" Supervisor",
