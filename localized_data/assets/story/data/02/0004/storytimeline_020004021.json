@@ -1,0 +1,319 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Biwa Hayahide",
+      "text": "You've found yourself a good team—your wins are proof of that. I'll \nbe watching what you do next."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "When will my appetite be sated? You're the one person who knows \nthat best."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "It'll be the day I beat you."
+    },
+    {
+      "text": "Back when I first met Narita Brian, several months before her \nastonishing win in the Satsuki Sho…"
+    },
+    {
+      "text": "Her running was, in a word, restrained.",
+      "choice_data_list": [
+        "<I>Huff… Puff…</I>",
+        "Gaaah… This's haaard!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Good run, you two! Keep it up! You'll be ready for the next race in no \ntime!"
+    },
+    {
+      "name": "Trainer",
+      "text": "You should be running too…"
+    },
+    {
+      "name": "Trainer",
+      "text": "You should be running too…"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "There's some things you can't get just by running! What that is \nexactly… I couldn't tell you!"
+    },
+    {
+      "text": "Uhh, okay then. Anyway, that's enough training for today. Good job, \neveryone."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Whoo-hoo! Time to eat! Later, alligator!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Thank you, Trainer."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "See you tomorrow… Huh? Who's that over there?"
+    },
+    {
+      "text": "I follow Winning Ticket's gaze and find a racer training tirelessly."
+    },
+    {
+      "name": "???",
+      "text": "<I>Exhale…</I>"
+    },
+    {
+      "name": "???",
+      "text": "Hup!",
+      "choice_data_list": [
+        "She moves flexibly, with powerful strides."
+      ]
+    },
+    {
+      "text": "It's not bad running at first glance, but something isn't quite in sync."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "That's Hayahide's little sister, Narita Brian."
+    },
+    {
+      "name": "Trainer",
+      "text": "Hayahide's sister?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yeah, but why's she out here training alone? Shouldn't she be with \nthe rest of her team?"
+    },
+    {
+      "text": "Her team… So she's debuted already?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yeah, she's run five races, I think, with two wins so far. It's not bad, \nbut I get the feeling it could be better."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "After all, Hayahide told me she's a huge heap of talent."
+    },
+    {
+      "text": "A heap of talent, huh?"
+    },
+    {
+      "text": "The analytical Biwa Hayahide, a heap of talent in her own right, \nwould praise her sister that much?"
+    },
+    {
+      "text": "Hearing that alone would've peaked my interest, but who would've \nthought I'd see Narita Brian run here of all places?"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "There's some major athletes at these tryouts. I've really gotta think \nthings through before scouting anyone."
+    },
+    {
+      "name": "Skilled Trainer B",
+      "text": "Hm? Narita Brian's up next, but didn't she debut already?"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "I heard she dropped out of her team. Things weren't working out with \nher trainer."
+    },
+    {
+      "text": "Tryouts are where racers who don't have a team yet try to be scouted \nby a trainer."
+    },
+    {
+      "text": "(So she quit her team and was training on her own. But why?)"
+    },
+    {
+      "text": "(So she quit her team and was training on her own. But why?)"
+    },
+    {
+      "text": "While I'm still pondering that, Brian's race begins."
+    },
+    {
+      "name": "Caster",
+      "text": "And Narita Brian finishes five lengths behind first! Did she lose all her \nenergy before the last sprint?!"
+    },
+    {
+      "name": "Caster",
+      "text": "With two Twinkle Series wins under her belt, it's hard to believe her \nresult today!"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "That was a great run! I'd love to have you on our team!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Y-yes! I'd love to join!"
+    },
+    {
+      "text": "Seeing the other trainers speak with the racers who just finished, I \nfollow suit and approach one of the runners."
+    },
+    {
+      "text": "Seeing the other trainers speak with the racers who just finished, I \nfollow suit and approach one of the runners."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…"
+    },
+    {
+      "text": "Hey, Narita Brian. Mind if we talk?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I don't think I did anything today worthy of being scouted."
+    },
+    {
+      "text": "She's right—she didn't display much of a performance and lost speed \nnear the end."
+    },
+    {
+      "text": "Yet I can't help but think that uneasy running form of hers is to blame. \nAnd I have to know if I'm right."
+    },
+    {
+      "text": "Your flexibility and momentum were good. Perfect form as well."
+    },
+    {
+      "text": "Your flexibility and momentum were good. Perfect form as well."
+    },
+    {
+      "text": "But I think those two things aren't fitting together well somehow."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…"
+    },
+    {
+      "text": "Your form's too perfect. It's holding back your power."
+    },
+    {
+      "text": "Your form's too perfect. It's holding back your power."
+    },
+    {
+      "text": "You should try letting your strength guide you."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Let my strength guide me…"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hup!"
+    },
+    {
+      "text": "…?!"
+    },
+    {
+      "text": "Whatever I was expecting, it wasn't this."
+    },
+    {
+      "text": "Her stance is so low, she looks like an animal on the hunt."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Haaaaah!"
+    },
+    {
+      "name": "Skilled Trainer B",
+      "text": "Huh? Wh-what's up with that run?!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Wow… She going even faster!"
+    },
+    {
+      "text": "Haha… She really is a heap of talent."
+    },
+    {
+      "text": "Haha… She really is a heap of talent."
+    },
+    {
+      "text": "If you ran like that in the race, you would've placed first for sure."
+    },
+    {
+      "text": "If you ran like that in the race, you would've placed first for sure."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I still have to think about it too much. Once I get the hang of it, I'll be \neven faster."
+    },
+    {
+      "text": "Even faster than that… You're really something."
+    },
+    {
+      "text": "Even faster than that… You're really something.",
+      "choice_data_list": [
+        "So, hey, why'd you leave your last team? Your \ntrainer must've been proud that you racked up \ntwo wins."
+      ]
+    },
+    {
+      "text": "So, hey, why'd you leave your last team? Your trainer must've been \nproud that you racked up two wins."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Because I want to run more."
+    },
+    {
+      "name": "Trainer",
+      "text": "More?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Apparently I don't get consistent results because I don't know how to \nkeep my composure."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "So they said I needed to take a break from racing."
+    },
+    {
+      "text": "Composure, huh…"
+    },
+    {
+      "text": "She must not have a good handle on her excitement when she's \ncompeting."
+    },
+    {
+      "text": "It's important to be hyped up, but a racer also needs to keep cool \nwhen making critical, split-second decisions."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "But I didn't accept that explanation or their decision."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I understand <I>why</I> my trainer made that call, but I simply disagree. \nNothing more, nothing less."
+    },
+    {
+      "text": "Wanting to run is as simple as it gets. Though she's certainly \nstrong-willed to leave her team over that."
+    },
+    {
+      "text": "And she has the ability to turn that passion into raw physical power!"
+    },
+    {
+      "text": "If we started now, we could still make the Kyoto Junior Stakes. \nThere's the G1 Asahi Hai Futurity Stakes too.",
+      "choice_data_list": [
+        "If we started now, we could still make the Kyoto \nJunior Stakes. There's the G1 Asahi Hai Futurity \nStakes too.",
+        "What's that supposed to mean?"
+      ]
+    },
+    {
+      "text": "Rather than hold back your desire to run, I think it'd be better for you \nto jump right into more races. So…",
+      "choice_data_list": [
+        "Rather than hold back your desire to run, I think \nit'd be better for you to jump right into more \nraces. So…",
+        "Would you like to race on my team?"
+      ]
+    },
+    {
+      "name": "Trainer",
+      "text": "Would you like to race on my team?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oh right, today's the big scouting day. My run after the race was all I \ncould think about—I completely forgot."
+    },
+    {
+      "text": "Let's try out that new running style in the next race!"
+    },
+    {
+      "text": "こうして、チームシリウスの新しいメンバーとし て \nナリタブライアンが加わることになり——"
+    },
+    {
+      "text": "すぐに彼女の底知れぬ\"才能\"を目撃することとな る。"
+    }
+  ]
+}
