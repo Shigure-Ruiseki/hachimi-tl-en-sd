@@ -5196,6 +5196,8 @@
         "1007": "That's a new best.",
         "1008": "We're all headed to the same end.",
         "1057": "No experimenting on anyone.",
+        "1058": "Don't be fooled...",
+        "1268": "...I've calmed down a bit.",
         "2030": "Take a deep breath…",
         "2031": "We're all headed to the same end.",
         "2032": "I'd like… to thank you…",
@@ -5223,6 +5225,7 @@
         "10018": "They're holding an event soon… We should be prepared… for anything that could happen.",
         "10019": "There's an event in progress. If you're going out, be sure to bring a light…",
         "10021": "Your Archive level is higher than it was before… When did it go up?",
+        "10025": "The gentle color of a cafe latte,\n the clear black of espresso...\nmy everyday outfits also somehow \nend up being my favorite colors.",
         "20000": "I feel like… the shadow will swallow me…",
         "20001": "Give me a few minutes to drink some coffee first… please.",
         "20002": "I feel like I could scale the heavens and pluck the stars from the sky.",
@@ -5361,10 +5364,7 @@
         "140018": "Ah…",
         "410001": "We did it……!",
         "410004": "Fufu",
-        "410005": "Fufu",
-        "1058": "Don't be fooled...",
-        "1268": "...I've calmed down a bit.",
-        "10025": "The gentle color of a cafe latte,\n the clear black of espresso...\nmy everyday outfits also somehow \nend up being my favorite colors."
+        "410005": "Fufu"
     },
     "1026": {
         "11": "Cygames",
@@ -12148,8 +12148,8 @@
         "11": "Cygames",
         "12": "Umamusume: Pretty Derby!",
         "80000": "Good work.",
-        "920000": "At maximum speed....... let's go!",
-        "910100": "Ha, you think you\ncan reach this speed?"
+        "910100": "Ha, you think you\ncan reach this speed?",
+        "920000": "At maximum speed....... let's go!"
     },
     "1121": {
         "11": "Cygames",
