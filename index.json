@@ -18030,8 +18030,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "030ac67619ff63b41f4b4157c145e731088da6abd040989ad8d64220f9d5ea20",
-      "size": 418418
+      "hash": "5b4c583df691b0c7461fd4b63cf5f170405deac19e65da6d4d7beaf654616908",
+      "size": 418415
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -18045,8 +18045,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "991d3089ebb16f73801a7b476333bfa3fb737125c2cb1a62c5c882115ff27cb3",
-      "size": 3216264
+      "hash": "552fa726847597c073283e27db6e72b2f88de978db3afefa7c60798331eca9f8",
+      "size": 3216297
     }
   ]
 }
