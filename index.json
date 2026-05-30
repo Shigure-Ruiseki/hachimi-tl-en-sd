@@ -119,11 +119,6 @@
       "size": 39106
     },
     {
-      "path": "assets/an_texture_sets/as_uMeshParam_fl_login_logo_30038/tx_uTex_fl_login_logo_30038_0.diff.png",
-      "hash": "131e57f350921c30f0e1515ec309a71bdd565cf1bc1e4930521ad6847cdd91c3",
-      "size": 121082
-    },
-    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_login_normal_title00/tx_uTex_fl_login_normal_title00_0.diff.png",
       "hash": "4e8f5b2279b669da6257f810ddc553e000d7fdde65844290a845d14ec8379759",
       "size": 25234
@@ -11797,6 +11792,26 @@
       "path": "assets/textures/home/ui/texture/utx_btn_home_race_up_01.diff.png",
       "hash": "bf6ee8bddfe57f1b65199b201af85eed34dc33cbfbefd2f722d9da22247fc79f",
       "size": 28065
+    },
+    {
+      "path": "assets/textures/outgame/campaign/title/utx_obj_title_logo_0061.png",
+      "hash": "87aa904fbac0009a5edd970bd607d25f8e7f54311d271412103cde3c4b1c0bab",
+      "size": 141868
+    },
+    {
+      "path": "assets/textures/outgame/campaign/title/utx_obj_title_logo_0100.png",
+      "hash": "e104b01af0da87307804abb6293623a5f139e503835962c940cc16de3a71b202",
+      "size": 223142
+    },
+    {
+      "path": "assets/textures/outgame/campaign/title/utx_obj_title_logo_0137.png",
+      "hash": "33278c326aeca44930ddc668e4c5c8a125aae0722a02c0f43d92d337f47480a1",
+      "size": 236254
+    },
+    {
+      "path": "assets/textures/outgame/campaign/title/utx_obj_title_logo_0177.png",
+      "hash": "87aa904fbac0009a5edd970bd607d25f8e7f54311d271412103cde3c4b1c0bab",
+      "size": 141868
     },
     {
       "path": "assets/textures/outgame/campaign/walking/utx_txt_campaign_stroll_03.png",
