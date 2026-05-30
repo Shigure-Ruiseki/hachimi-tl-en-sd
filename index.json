@@ -119,6 +119,11 @@
       "size": 39106
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_login_logo_30038/tx_uTex_fl_login_logo_30038_0.diff.png",
+      "hash": "131e57f350921c30f0e1515ec309a71bdd565cf1bc1e4930521ad6847cdd91c3",
+      "size": 121082
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_login_normal_title00/tx_uTex_fl_login_normal_title00_0.diff.png",
       "hash": "4e8f5b2279b669da6257f810ddc553e000d7fdde65844290a845d14ec8379759",
       "size": 25234
@@ -780,8 +785,8 @@
     },
     {
       "path": "assets/atlas/challengematch/challengematch.diff.png",
-      "hash": "c3ce185aad28a50bc6e01ca53edc28cef0292796970917ba2a05af260677c059",
-      "size": 182265
+      "hash": "3ebf2675129cb731e8830313781db936a9e1fdf55542af4ad7ef794d3cd55445",
+      "size": 122036
     },
     {
       "path": "assets/atlas/challengematch/challengematch.json",
