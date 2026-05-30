@@ -364,6 +364,7 @@
     "2510": "Event ended",
     "2512": "Confirm training data deletion",
     "2513": "Inheritance Error",
+    "2514": "Outside the Entry Uma Musume Change Period",
     "2800": "Currently aggregating",
     "2803": "Aggregation Period",
     "5001": "Club Re-entry Restricted",
@@ -447,6 +448,7 @@
     "9103": "Leading trainee period ended",
     "9104": "Event period ended",
     "9105": "Confirm",
+    "9106": "Expired",
     "9151": "Event period ended",
     "9152": "Event period ended",
     "9153": "Event period ended",
@@ -456,6 +458,7 @@
     "9351": "Veteran Trainee error",
     "9401": "Campaign Ended",
     "9402": "Expired",
+    "9403": "Favorite Icon Setting Error",
     "9551": "Support Card rental campaign ended",
     "9651": "Expired",
     "100001": "Event Error"
@@ -790,6 +793,7 @@
     "100902": "[Scarlet Nuit Étoilée]",
     "101001": "[Wild Frontier]",
     "101002": "[Bubblegum ☆ Memories]",
+    "101003": "[Baa Baa Patisserie]",
     "101101": "[Rock-piercing Blue]",
     "101102": "[Saintly Jade Healer]",
     "101103": "[Honor of the Blue Flame]",
@@ -838,6 +842,7 @@
     "103003": "[Yummy Dreamy Fairy]",
     "103101": "[All-time Fever]",
     "103102": "[MELTY GIFT]",
+    "103103": "[Hello Hello Island]",
     "103201": "[Tach-nology]",
     "103202": "[Lunatic Lab]",
     "103203": "[Σ Experiment]",
@@ -859,6 +864,7 @@
     "103902": "[Suikan Beauty]",
     "104001": "[Authentic/1928]",
     "104002": "[Akizakura Danzatrice]",
+    "104003": "[Boho Flare]",
     "104101": "[Blooming Forward!]",
     "104102": "[Red-hot ☆ Leader]",
     "104103": "[Spring Thunder Skanda]",
@@ -877,6 +883,7 @@
     "104702": "[Inlaid Stories]",
     "104801": "[Pop ☆ Joker]",
     "104802": "[Aurore ☆ Vacances]",
+    "104803": "[Highkey☆Hallowed]",
     "104901": "[Foiling Fiasco]",
     "104902": "[Festive Games]",
     "105001": "[Nevertheless]",
@@ -923,6 +930,7 @@
     "106901": "[Celebrated Blooming Sumo Flower]",
     "106902": "[Fleur Enneigée]",
     "107001": "[Féroce]",
+    "107002": "[Louve stellaire]",
     "107101": "[Clinochlore Line]",
     "107102": "[Neige Émeraude]",
     "107201": "[Attack of the Four White Meteors]",
@@ -931,6 +939,7 @@
     "107401": "[Brunissage Line]",
     "107402": "[O Twinkling Snow Lolita]",
     "107601": "[Saisir le Rêve]",
+    "107602": "[Nouvelle pousse]",
     "107701": "[The Proud Road]",
     "107702": "[Celestial Road]",
     "107801": "[Fluttertail Spirit]",
@@ -938,21 +947,26 @@
     "107901": "[Triumphant Return of the Auspicious Star]",
     "108001": "[ZOKU-ZOKU GIZMO]",
     "108002": "[Twilight Neo-Kagura]",
+    "108101": "[Red Devil Gear]",
     "108201": "[Looking Fly!]",
     "108202": "[Flash of Azure]",
     "108301": "[Onyx Soldier]",
     "108302": "[Jet-black Automaton]",
     "108401": "[Embodiment of Keravnos]",
+    "108402": "[With a Twist]",
     "108501": "[Brilliant Red Bijou]",
     "108502": "[Flowing Blue]",
     "108601": "[Onyx Line]",
+    "108602": "[Untouchable Eden]",
     "108701": "[Flare]",
     "108702": "[Everlasting Sweet Treat]",
     "108801": "[Thousand Mile's Black Jade]",
     "108802": "[Sunny Island Flower]",
     "108901": "[Grand Itinéraire]",
     "108902": "[Calm Summer Navy Drop]",
+    "109001": "[Le beau sommet]",
     "109101": "[Voyage Étincelant]",
+    "109102": "[Éclat d'été]",
     "109201": "[Center◎Stage]",
     "109301": "[Prism]",
     "109302": "[Autumnal Andante]",
@@ -969,6 +983,7 @@
     "110002": "[The Scent of Hot Spring]",
     "110201": "[Ritmo Della Terra]",
     "110202": "[Sonata alla Menta]",
+    "110301": "[Inspiring Genius]",
     "110401": "[Dragon Rising Above]",
     "110402": "[Pen Name: Ink Dragon]",
     "110501": "[Universe-Naut]",
@@ -976,14 +991,21 @@
     "110601": "[Miracle Make-up!]",
     "110602": "[Happy Little Notes]",
     "110701": "[GLITTER!]",
+    "110702": "[Tap! Tap! Tap!]",
     "110801": "[Red in Black]",
     "110901": "[Dream Successor]",
+    "110902": "[Eternal Fairytale]",
     "111001": "[Future Weaver]",
+    "111002": "[Twinbell Queen]",
     "111101": "[Inherited Hope]",
+    "111201": "[Daring Darling!]",
+    "111301": "[Assorted Cuteness♡]",
+    "111401": "[Heroína Inocente]",
     "111501": "[Control]",
     "111601": "[Regina dei Fiori]",
     "111602": "[La dama perfetta]",
     "111701": "[Dramatic Tutu]",
+    "111801": "[Glacial Queen]",
     "111901": "[Dreamland Memento]",
     "111902": "[Snow-White Dream Path]",
     "112001": "[One True Path]",
@@ -991,9 +1013,16 @@
     "112401": "[POPPING!]",
     "112402": "[Dawn Light]",
     "112701": "[Righteous Black Flame]",
+    "112901": "[The Changer]",
     "113001": "[Unbreakable Resolve]",
     "113101": "[sMile My Way!]",
+    "113201": "[9927 Wishes]",
+    "113202": "[Love-Linked Aster]",
     "113301": "[Effulgent Curator]",
+    "113501": "[Sunlit Outsider]",
+    "113601": "[Divine Raiment]",
+    "113701": "[Miracle Author]",
+    "114301": "[Lueur Angélique]",
     "9100101": "[Special Dreamer]",
     "9101101": "[Rock-piercing Blue]"
   },
@@ -1568,6 +1597,7 @@
     "1089": "Perfectly stable",
     "1090": "Exactly right",
     "1091": "On the low side but stable",
+    "1092": "No Confidence",
     "1093": "Slender",
     "1094": "No clue",
     "1095": "Stable",
@@ -1577,6 +1607,7 @@
     "1099": "No fluctuation",
     "1100": "Unstable",
     "1102": "Benissimo!",
+    "1103": "Presence of the Strongest",
     "1104": "Aced",
     "1105": "One of the mysteries of the universe",
     "1106": "Normal",
@@ -1585,18 +1616,27 @@
     "1109": "Pleasant",
     "1110": "Slight decrease (Holding back for an upcoming race)",
     "1111": "Well-regulated",
+    "1112": "Bold",
     "1113": "Great♡",
+    "1114": "Slight Decrease (Adjusting before race)",
     "1115": "Like shining gold",
     "1116": "Powerful",
     "1117": "Slowly increasing",
+    "1118": "Magnificent Form",
     "1119": "Unknown",
     "1120": "Developing at Top Speed",
     "1121": "Achieved through devotion.",
     "1124": "Perfectly as declared",
     "1127": "Beastly",
+    "1129": "Perfect",
+    "1130": "Graceful Transition",
     "1131": "Increased roughly 10 miles!",
     "1132": "Members Only",
-    "1133": "Historical"
+    "1133": "Historical",
+    "1135": "Eat Without Gaining Weight",
+    "1136": "Sacred Secret",
+    "1137": "Highly Acclaimed Adjustments Underway!",
+    "1143": "Slight Increase"
   },
   "10": {
     "1": "Sprint shoes used to raise Potential Lv.",
@@ -16652,7 +16692,9 @@
     "113701111": "Brush Up!",
     "113701211": "Emergency Reprint",
     "114301111": "Chain of Hearts",
-    "114301211": "Light in the Dark"
+    "114301211": "Light in the Dark",
+    "203561": "Utmost Effort",
+    "203321": "Descending Wings"
   },
   "48": {
     "10071": "<b>Target Speed +0.15 m/s for 6 s</b> when: After 50% distance AND Before 60% distance AND In trailing ﹤50%",
@@ -25581,6 +25623,8 @@
     "340125": "Reach Bond Lv 1 with Victoire Pisa.",
     "340126": "Reach Bond Lv 1 with Lucky Lilac.",
     "340127": "Reach Bond Lv 1 with Admire Groove.",
+    "340128": "Reach Bond Lv 1 with Raise Daring Heart",
+    "340129": "Reach Bond Lv 1 with Red Desire",
     "341000": "Reach Bond Lv 11 with Special Week",
     "341001": "Reach Bond Lv 11 with Silence Suzuka",
     "341002": "Reach Bond Lv 11 with Tokai Teio",
@@ -25709,6 +25753,8 @@
     "341125": "Reach Bond Lv 11 with Victoire Pisa.",
     "341126": "Reach Bond Lv 11 with Lucky Lilac.",
     "341127": "Reach Bond Lv 11 with Admire Groove.",
+    "341128": "Reach Bond Lv 11 with Daring Heart",
+    "341129": "Reach Bond Lv 11 with Red Desire",
     "342000": "Reach Bond Lv 12 with Special Week",
     "342001": "Reach Bond Lv 12 with Silence Suzuka",
     "342002": "Reach Bond Lv 12 with Tokai Teio",
@@ -33734,7 +33780,10 @@
     "30297": "Agnes Digital",
     "30298": "Tap Dance City",
     "30299": "Agnes Tachyon",
-    "30300": "Sakura Chiyono O"
+    "30300": "Sakura Chiyono O",
+    "30301": "Gran Alegria",
+    "30302": "Satono Diamond",
+    "30303": "Blast Onepiece"
   },
   "78": {
     "10001": "Special Week",
@@ -34272,7 +34321,10 @@
     "30297": "Agnes Digital",
     "30298": "Tap Dance City",
     "30299": "Agnes Tachyon",
-    "30300": "Sakura Chiyono O"
+    "30300": "Sakura Chiyono O",
+    "30301": "Gran Alegria",
+    "30302": "Satono Diamond",
+    "30303": "Blast Onepiece"
   },
   "88": {
     "10001": "My name is Special Week! My dream is to be the best trainee in Japan! I'm gonna pull my own weight to make my moms proud!",
@@ -58364,6 +58416,12 @@
     "30": "G1 Plate",
     "31": "G1 Plate"
   },
+  "350": {
+    "1": "GIRLS' LEGEND U",
+    "2": "U.M.A. NEW WORLD!!",
+    "3": "CM Movie",
+    "4": "Event Movie"
+  },
   "351": {
     "1": "Debut Race",
     "7": "URA Finale Final"
@@ -59526,6 +59584,7 @@
     "10002": "Don't retry races below G1",
     "100001": "Don't retry races requiring unsuitable aptitudes",
     "100002": "Don't retry races below G1",
+    "101001": "When a formidable rival runs in Dream Fest Legend\\nDo not continue",
     "110001": "Don't retry races requiring unsuitable aptitudes",
     "110002": "Don't retry races below G1",
     "120001": "Don't retry races requiring unsuitable aptitudes",
@@ -59622,6 +59681,25 @@
     "1": "Physical",
     "2": "Technique",
     "3": "Mental"
+  },
+  "415": {
+    "1": "G",
+    "2": "F",
+    "3": "E",
+    "4": "D",
+    "5": "C",
+    "6": "B",
+    "7": "A",
+    "8": "S",
+    "9": "SS",
+    "10": "UG",
+    "11": "UF",
+    "12": "UE",
+    "13": "UD",
+    "14": "UC",
+    "15": "UB",
+    "16": "UA",
+    "17": "US"
   },
   "416": {
     "1": "Strolling Together",
@@ -59837,6 +59915,22 @@
     "4": "$(nb)$(scale 85)Famous\nHot Spring\nInn",
     "5": "$(nb)$(scale 85)Legendary\nHot Spring\nInn"
   },
+  "444": {
+    "1": "Wit <color=#ff911c>+5</color>\\\\nEnd the questions to Transcend.",
+    "2": "Ask questions to Transcend"
+  },
+  "445": {
+    "1004": "[Uma Musume Pretty Derby]"
+  },
+  "446": {
+    "1004": "I sent a message to Oguri Cap. Let's enjoy the ongoing event!"
+  },
+  "447": {
+    "1004": "I sent a message to Oguri Cap. Let's enjoy Uma Musume together!"
+  },
+  "448": {
+    "1004": "The White Era"
+  },
   "450": {
     "4": "Outrunners who are close to each other during the early \nor the middle phase expend energy for extra speed.\nThe strength and duration of this boost scale with Guts.",
     "5": "Increases speed and acceleration when evenly \nmatched with a competitor on the homestretch.\nStrength scales with Guts.",
@@ -59849,6 +59943,24 @@
     "13": "Increases top speed in the late phase by expending energy.\nMight be delayed or weakened when lacking energy.\nStrength scales with Speed and Guts.",
     "14": "Wastes energy on increased speed while disregarding positioning \nduring the early or middle phases. Likelihood decreases with Wit.",
     "15": "Start reaction time is deemed too slow when crossing\na set value. Some skills can shorten reaction time."
+  },
+  "451": {
+    "1": "Dance Scene",
+    "2": "Dance Scene",
+    "3": "Dance Scene",
+    "4": "Band Performance Scene",
+    "5": "Dance Scene",
+    "6": "Chorus Scene",
+    "7": "Dance Scene"
+  },
+  "452": {
+    "1": "<size=33>{0}</size> Place",
+    "2": "<size=33>{0}</size> Place",
+    "3": "<size=33>{0}</size> Place",
+    "4": "{0} Place"
+  },
+  "453": {
+    "2008": "(The Day the Professor Created Mecha Uma Musume)"
   },
   "454": {
     "1": "You'll be battling your way to the BC\nthrough the <color=#ff911c>Dirt Sprints</color> route.",
