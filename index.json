@@ -70,8 +70,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
-      "hash": "d83577b7d5412e607c5d163d5a4654d149dc1293b73d44fbb960a81eccad2037",
-      "size": 66255
+      "hash": "49400fc8090707e885287f4dd059a6b726d9a780d02965f7f849e5b1320e7d73",
+      "size": 90217
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.diff.png",
@@ -18045,8 +18045,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "11b8945f2cfa7dd8f42f0240e2f51d03fac17d57b18259d210f9aba611806627",
-      "size": 3228488
+      "hash": "c971fd0ad564298cb2103037b8e94b974b4a42d516716de72d1ed9eb1c5811f3",
+      "size": 3231683
     }
   ]
 }
